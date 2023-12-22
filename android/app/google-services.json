@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656998962831",
+    "project_id": "houseoffood-fe301",
+    "storage_bucket": "houseoffood-fe301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656998962831:android:e422a3a095c1373d5e82fa",
+        "android_client_info": {
+          "package_name": "com.example.house_of_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTzDwX8gmlV-h2LdigZNEQptlk6pLOic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656998962831:android:667915c9dd1d2c015e82fa",
+        "android_client_info": {
+          "package_name": "com.example.houseoffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTzDwX8gmlV-h2LdigZNEQptlk6pLOic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
